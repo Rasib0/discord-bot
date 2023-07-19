@@ -1,0 +1,18 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "discord bot that shows you a cute waifu pick",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rasib",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.45.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "dotenv": "^16.3.1"
+  }
+}
